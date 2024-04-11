@@ -1,4 +1,4 @@
-# Armors キーパッド
+# Armors キーパッド ビルドガイド
 
 ## キット内容
 ![パーツ一覧](img/1_contents.jpg)  
