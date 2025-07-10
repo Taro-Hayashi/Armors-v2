@@ -94,21 +94,17 @@ XIAO RP2040に重なっているキーを押しながらPCと接続し、1秒以
 ※認識されない場合はXIAO RP2040のBOOTボタンを押しながら接続してください。
 
 こちらのuf2ファイルをダウンロードしてください。
-- [tarohayashi_armors_v2_vial.uf2](https://github.com/Taro-Hayashi/Armors-v2/releases/latest/download/tarohayashi_armors_v2_vial.uf2)
+- [tarohayashi_armors_v2_via.uf2](https://github.com/Taro-Hayashi/Armors-v2/releases/latest/download/tarohayashi_armors_v2_via.uf2)
 
 RPI-RP2ドライブにダウンロードしたuf2ファイルをドラッグアンドドロップして、ドライブが消えたことを確認します。
 
-VIALに接続し自由にキーを入れ替えて完成です。
-- https://vial.rocks
+Remapに接続し自由にキーを入れ替えて完成です。
+- https://remap-keys.app/
 
-![](img/18_vial.jpg)
 
 ## その他
-### Remap用ファームウェア
-- [tarohayashi_armors_v2_via.uf2](https://github.com/Taro-Hayashi/Armors-v2/releases/latest/download/tarohayashi_armors_v2_via.uf2)
 
 ### ファームウェアのコード
-- vial-qmk https://github.com/Taro-Hayashi/vial-qmk/tree/tarohayashi/keyboards/tarohayashi/armors_v2
 - qmk-firmware https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/armors_v2
 
 ### PRK Firmware
