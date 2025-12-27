@@ -105,7 +105,7 @@ Remapに接続し自由にキーを入れ替えて完成です。
 ## その他
 
 ### ファームウェアのコード
-- qmk-firmware https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/armors_v2
+- qmk-firmware https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/_archive/armors_v2
 
 ### PRK Firmware
 - [keymap.rb](https://github.com/Taro-Hayashi/Armors-v2/releases/download/0.23.9/keymap.rb)
